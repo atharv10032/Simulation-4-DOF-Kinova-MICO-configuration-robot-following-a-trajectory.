@@ -1,0 +1,1 @@
+Please keep them in the same folder while running and run , importstuff.m script before doing anything , as it generates the rigid body tree for the inverse kinematics.
